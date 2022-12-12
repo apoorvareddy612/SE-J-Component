@@ -1,1 +1,1 @@
-# SE-J-Component
+# Brain Tumor Classification
